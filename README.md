@@ -25,8 +25,6 @@ The objective of this project is to analyze airline operational data to uncover 
 
 This project serves as a valuable resource for airline companies, analysts, and aviation enthusiasts looking to explore data-driven solutions in the aviation industry.
 
-Would you like to include any additional objectives or tailor it further? 🚀
-
 ## Dataset Used
 - <a href="https://github.com/abhinavm0010/-High-Cloud-Airlines---Data-Insights-Analysis-/blob/main/Questinaires%20high%20%20Clouds%20(1).xlsx">Dataset for High Cloud Airlines </a>
 
@@ -53,3 +51,34 @@ Would you like to include any additional objectives or tailor it further? 🚀
 - Dashboard Interaction <a href="https://github.com/abhinavm0010/-High-Cloud-Airlines---Data-Insights-Analysis-/blob/main/Screenshot%202025-02-03%20211240.png">View Excel Dashboard</a>
 - Dashboard Interaction <a href="https://github.com/abhinavm0010/-High-Cloud-Airlines---Data-Insights-Analysis-/blob/main/Screenshot%202025-02-03%20211714.png">View Power BI Dashboard 1</a>
 - Dashboard Interaction <a href="https://github.com/abhinavm0010/-High-Cloud-Airlines---Data-Insights-Analysis-/blob/main/Screenshot%202025-02-03%20211744.png">View Power BI Dashboard 2</a>
+
+## 📌 Project Process: High Cloud Airlines Data Analysis
+To achieve meaningful insights from the High Cloud Airlines dataset, the following structured process is followed:
+
+- Data Collection & Understanding
+📥 Import Data – Extract raw datasets related to airline operations, including flight schedules, passenger details, delays, and cancellations.
+📊 Explore Data – Perform an initial review of dataset structure, column names, and data types to understand key attributes.
+
+- Data Cleaning & Preprocessing
+🛠 Handle Missing Values – Identify and impute or remove missing data for accuracy.
+🔄 Data Formatting – Convert date formats, standardize categorical variables, and ensure consistency.
+🧹 Remove Duplicates & Outliers – Detect and filter out anomalies affecting analysis.
+
+- Exploratory Data Analysis (EDA)
+📌 Statistical Summaries – Use descriptive statistics to understand distributions and patterns.
+📈 Data Visualization – Generate bar charts, histograms, and scatter plots using Power BI.
+📊 Correlation Analysis – Identify relationships between variables such as delays and weather conditions.
+
+- Data Processing & Querying (SQL)
+🛠 SQL Queries – Write optimized SQL queries to filter, aggregate, and extract insights.
+📊 Python for Analysis – Use Pandas & NumPy for data manipulation, and Matplotlib/Seaborn for visualization.
+📌 Feature Engineering – Create new meaningful metrics for better insight generation.
+
+- Insights & Reporting
+📢 Dashboard Creation – Build interactive reports using Power BI.
+📌 Business Insights – Summarize key takeaways, trends, and recommendations.
+📊 Forecasting & Predictive Modeling – Apply basic ML techniques (if applicable) to predict demand trends.
+
+- Final Documentation & Deployment
+📑 Documentation – Prepare a detailed report outlining methodologies, insights, and recommendations.
+🚀 GitHub Repository Update – Upload scripts, visualizations, and reports for easy access.
