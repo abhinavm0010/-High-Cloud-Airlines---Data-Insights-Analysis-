@@ -53,7 +53,6 @@ This project serves as a valuable resource for airline companies, analysts, and 
 - Dashboard Interaction <a href="https://github.com/abhinavm0010/-High-Cloud-Airlines---Data-Insights-Analysis-/blob/main/Screenshot%202025-02-03%20211744.png">View Power BI Dashboard 2</a>
 
 ## 📌 Project Process: High Cloud Airlines Data Analysis
-To achieve meaningful insights from the High Cloud Airlines dataset, the following structured process is followed:
 
 - Data Collection & Understanding
 📥 Import Data – Extract raw datasets related to airline operations, including flight schedules, passenger details, delays, and cancellations.
@@ -82,3 +81,10 @@ To achieve meaningful insights from the High Cloud Airlines dataset, the followi
 - Final Documentation & Deployment
 📑 Documentation – Prepare a detailed report outlining methodologies, insights, and recommendations.
 🚀 GitHub Repository Update – Upload scripts, visualizations, and reports for easy access.
+
+## Dashboards
+
+![Screenshot 2025-02-03 211240](https://github.com/user-attachments/assets/193edaa8-abda-44de-af45-101a5df2bbc0)
+![Screenshot 2025-02-03 211714](https://github.com/user-attachments/assets/78cb7407-5106-4273-b3a8-55bf2d60f9e7)
+![Screenshot 2025-02-03 211744](https://github.com/user-attachments/assets/58aefd28-a10e-40f5-a26d-e8df24c1b070)
+
