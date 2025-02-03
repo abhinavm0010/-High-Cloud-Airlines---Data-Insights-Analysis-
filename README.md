@@ -3,8 +3,11 @@ Welcome to High Cloud Airlines, a data-driven project that provides deep insight
 
 ## 🚀 Features
 ✅ Data Processing – Cleaned and structured datasets for analysis
+
 ✅ Visualization Dashboards – Interactive charts built with Power BI/Tableau
+
 ✅ SQL Queries – Optimized queries for extracting meaningful insights
+
 ✅ Python Scripts – Data manipulation and trend analysis
 
 ## 📌 Use Case
